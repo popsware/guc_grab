@@ -1,3 +1,6 @@
+## About
+An auto-download script that mirrors an online university (GUC in this case) directory using wget over an NTLM Authorized web portal
+
 ## Main Aim
 The main aim of this project is to quickly download all my learning material from my university online website
 
@@ -13,4 +16,4 @@ The main aim of this project is to quickly download all my learning material fro
 - next run will directly run without asking anymore init.
 
 ## Publishing
-You may use (Bat To Exe Convertor)[https://www.portablefreeware.com/?id=1660] to convert `wGetFiles_final.bat` into `guc_grab.exe`.
+You may use [Bat To Exe Convertor](https://www.portablefreeware.com/?id=1660) to convert `wGetFiles_final.bat` into `guc_grab.exe`.
